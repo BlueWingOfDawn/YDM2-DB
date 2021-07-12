@@ -1,0 +1,12 @@
+{
+  "id": 40001001,
+  "name": "Soul Summon Art",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "This card is used to Soul Summon any 1 Soul Monster. You must banish the requirements listed on the Soul card.",
+  "images": [
+    ""
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}
