@@ -277,16 +277,10 @@
       "image_index": 0
     },
     {
-      "id": 37880706,
+      "id": 200001001,
       "code": "SDSSBF-045",
       "rarity": "Common",
       "image_index": 0
     },
-	{
-      "id": 200001001,
-      "code": "SDSSBF-046",
-      "rarity": "Secret Rare",
-      "image_index": 0
-    }
   ]
 }

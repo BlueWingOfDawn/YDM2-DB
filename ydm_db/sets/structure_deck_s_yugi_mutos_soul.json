@@ -37,7 +37,7 @@
       "image_index": 0
     },
     {
-      "id": 75347539,
+      "id": 100001001,
       "code": "SDSMYS-006",
       "rarity": "Common",
       "image_index": 0
@@ -276,11 +276,5 @@
       "rarity": "Common",
       "image_index": 0
     },
-	{
-      "id": 100001001,
-      "code": "SDSMYS-046",
-      "rarity": "Secret Rare",
-      "image_index": 0
-    }
   ]
 }
