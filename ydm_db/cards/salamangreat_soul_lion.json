@@ -1,0 +1,24 @@
+{
+  "id": 200001001,
+  "name": "Salamangreat Soul Lion",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "This card must be Soul Summoned by banishing a \"Salamangreat\" Link 3 Monster and cannot be summoned by other means.\nIf this card is Soul Summoned: You can target 1 card on your opponent\u0027s field; shuffle it into the Deck. Once per turn, during your Main Phase, if this card was Soul Summoned using \"Salamangreat Heatleo\" as material: You can target 1 face-up monster on the field and 1 monster in your GY; the ATK of the first target reduced by the ATK of the other target\u0027s, until the end of this turn.",
+  "images": [
+    "",
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 3500,
+  "species": "Soul",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "link_rating": 3,
+  "link_arrows": [
+    "Top",
+    "Bottom-Left",
+    "Bottom-Right"
+  ]
+}

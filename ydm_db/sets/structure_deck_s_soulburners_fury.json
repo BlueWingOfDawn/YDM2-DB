@@ -1,0 +1,292 @@
+{
+  "name": "Structure Deck S: Soulburner's Fury",
+  "code": "SDSSBF",
+  "type": "Structure Deck",
+  "date": "14-02-2019",
+  "image": "https://ygoprodeck.com/pics_sets/SDSSBF.jpg",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 53490455,
+      "code": "SDSSBF-001",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 89484053,
+      "code": "SDSSBF-002",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 26889158,
+      "code": "SDSSBF-003",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 52277807,
+      "code": "SDSSBF-004",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 89662401,
+      "code": "SDSSBF-005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 25166510,
+      "code": "SDSSBF-006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 67225377,
+      "code": "SDSSBF-007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 94620082,
+      "code": "SDSSBF-008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 20618081,
+      "code": "SDSSBF-009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 56003780,
+      "code": "SDSSBF-010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 13173832,
+      "code": "SDSSBF-011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 59577547,
+      "code": "SDSSBF-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 86962245,
+      "code": "SDSSBF-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 96746083,
+      "code": "SDSSBF-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 93332803,
+      "code": "SDSSBF-015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 23297235,
+      "code": "SDSSBF-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 97396380,
+      "code": "SDSSBF-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 74823665,
+      "code": "SDSSBF-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 14558127,
+      "code": "SDSSBF-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 40975574,
+      "code": "SDSSBF-020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 33365932,
+      "code": "SDSSBF-021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 33365932,
+      "code": "SDSSBF-021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 50366775,
+      "code": "SDSSBF-022",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 52155219,
+      "code": "SDSSBF-023",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 88540324,
+      "code": "SDSSBF-024",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 1295111,
+      "code": "SDSSBF-025",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 64178424,
+      "code": "SDSSBF-026",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 74848038,
+      "code": "SDSSBF-027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 59388357,
+      "code": "SDSSBF-028",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 5288597,
+      "code": "SDSSBF-029",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 51335426,
+      "code": "SDSSBF-030",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 1073952,
+      "code": "SDSSBF-031",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 14934922,
+      "code": "SDSSBF-032",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 51339637,
+      "code": "SDSSBF-033",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 20788863,
+      "code": "SDSSBF-034",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 46652477,
+      "code": "SDSSBF-035",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 36361633,
+      "code": "SDSSBF-036",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 56526564,
+      "code": "SDSSBF-037",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 82705573,
+      "code": "SDSSBF-038",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 53334471,
+      "code": "SDSSBF-039",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 41463181,
+      "code": "SDSSBF-040",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 41463181,
+      "code": "SDSSBF-041",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 87327776,
+      "code": "SDSSBF-042",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 14812471,
+      "code": "SDSSBF-043",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 49847524,
+      "code": "SDSSBF-044",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 37880706,
+      "code": "SDSSBF-045",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 200001001,
+      "code": "SDSSBF-046",
+      "rarity": "Secret Rare",
+      "image_index": 0
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 100001001,
+  "name": "Soul Arts Magician",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "This card must be summoned through the effect of a Soul summoning spell by banishing Spellcaster monsters with a total level of seven or more. and cannot be Special Summoned by other means. If this card destroys a Monster in battle, you can destroy one Spell/Trap on the field. This effect can only be used once per turn.",
+  "images": [
+    "",
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 3500,
+  "species": "Soul",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 3000,
+  "level": 7,
+  "is_tuner": false
+}
